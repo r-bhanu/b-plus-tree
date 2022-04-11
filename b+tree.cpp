@@ -305,5 +305,10 @@ int main()
          // cout << index_nodes_num << " " << leaf_nodes_num << endl;
          display(t, d);
       }
+      else if(choice == 3)
+      {
+          exit(0);
+          break;
+      }
    }
 }
